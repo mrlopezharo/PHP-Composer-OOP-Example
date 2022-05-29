@@ -1,0 +1,15 @@
+{
+    "name": "ricardo/phpoop",
+    "autoload": {
+        "psr-4": {
+            "Ricardo\\Phpoop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mrlopezharo",
+            "email": "lopezharomr@gmail.com"
+        }
+    ],
+    "require": {}
+}
